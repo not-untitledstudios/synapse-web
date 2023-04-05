@@ -1,0 +1,36 @@
+.headers {
+    background-color: rgb(0, 0, 170);
+}
+
+.headerstext {
+    position: relative;
+    left: 200px;
+    color: rgb(255, 255, 255);
+}
+
+.install-synapse {
+    position: relative;
+    left: 200px;
+    background-color: #232eff; /* Green */
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+.install-synapse:hover {
+    background-color: #464fff;
+}
+
+.whysynapse1 {
+    background-color: #1b22af;
+}
+
+.whysynapse2 {
+    background-color: #181e9e;
+}
